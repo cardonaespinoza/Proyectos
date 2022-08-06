@@ -1,0 +1,8 @@
+C:\Users\ACER\AppData\Local\Temporary Projects\NumerosPrimosC\bin\Debug\NumerosPrimosC.exe
+C:\Users\ACER\AppData\Local\Temporary Projects\NumerosPrimosC\bin\Debug\NumerosPrimosC.pdb
+C:\Users\ACER\AppData\Local\Temporary Projects\NumerosPrimosC\obj\x86\Debug\NumerosPrimosC.exe
+C:\Users\ACER\AppData\Local\Temporary Projects\NumerosPrimosC\obj\x86\Debug\NumerosPrimosC.pdb
+e:\users\acer\documents\visual studio 2010\Projects\NumerosPrimosC\NumerosPrimosC\obj\x86\Debug\NumerosPrimosC.exe
+e:\users\acer\documents\visual studio 2010\Projects\NumerosPrimosC\NumerosPrimosC\obj\x86\Debug\NumerosPrimosC.pdb
+e:\users\acer\documents\visual studio 2010\Projects\NumerosPrimosC\NumerosPrimosC\bin\Debug\NumerosPrimosC.exe
+e:\users\acer\documents\visual studio 2010\Projects\NumerosPrimosC\NumerosPrimosC\bin\Debug\NumerosPrimosC.pdb

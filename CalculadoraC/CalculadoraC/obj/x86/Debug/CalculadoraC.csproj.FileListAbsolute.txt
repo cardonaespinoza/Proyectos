@@ -1,0 +1,14 @@
+C:\Users\ACER\AppData\Local\Temporary Projects\CalculadoraC\bin\Debug\CalculadoraC.exe
+C:\Users\ACER\AppData\Local\Temporary Projects\CalculadoraC\bin\Debug\CalculadoraC.pdb
+C:\Users\ACER\AppData\Local\Temporary Projects\CalculadoraC\obj\x86\Debug\CalculadoraC.Form1.resources
+C:\Users\ACER\AppData\Local\Temporary Projects\CalculadoraC\obj\x86\Debug\CalculadoraC.Properties.Resources.resources
+C:\Users\ACER\AppData\Local\Temporary Projects\CalculadoraC\obj\x86\Debug\CalculadoraC.csproj.GenerateResource.Cache
+C:\Users\ACER\AppData\Local\Temporary Projects\CalculadoraC\obj\x86\Debug\CalculadoraC.exe
+C:\Users\ACER\AppData\Local\Temporary Projects\CalculadoraC\obj\x86\Debug\CalculadoraC.pdb
+e:\users\acer\documents\visual studio 2010\Projects\CalculadoraC\CalculadoraC\obj\x86\Debug\CalculadoraC.exe
+e:\users\acer\documents\visual studio 2010\Projects\CalculadoraC\CalculadoraC\obj\x86\Debug\CalculadoraC.pdb
+e:\Users\ACER\Documents\Visual Studio 2010\Projects\CalculadoraC\CalculadoraC\bin\Debug\CalculadoraC.exe
+e:\Users\ACER\Documents\Visual Studio 2010\Projects\CalculadoraC\CalculadoraC\bin\Debug\CalculadoraC.pdb
+e:\Users\ACER\Documents\Visual Studio 2010\Projects\CalculadoraC\CalculadoraC\obj\x86\Debug\CalculadoraC.Form1.resources
+e:\Users\ACER\Documents\Visual Studio 2010\Projects\CalculadoraC\CalculadoraC\obj\x86\Debug\CalculadoraC.Properties.Resources.resources
+e:\Users\ACER\Documents\Visual Studio 2010\Projects\CalculadoraC\CalculadoraC\obj\x86\Debug\CalculadoraC.csproj.GenerateResource.Cache
