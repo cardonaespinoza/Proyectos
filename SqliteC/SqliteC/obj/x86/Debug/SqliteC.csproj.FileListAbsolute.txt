@@ -1,0 +1,10 @@
+e:\users\acer\documents\visual studio 2010\Projects\SqliteC\SqliteC\bin\Debug\SqliteC.exe
+e:\users\acer\documents\visual studio 2010\Projects\SqliteC\SqliteC\bin\Debug\SqliteC.pdb
+e:\users\acer\documents\visual studio 2010\Projects\SqliteC\SqliteC\bin\Debug\System.Data.SQLite.dll
+e:\users\acer\documents\visual studio 2010\Projects\SqliteC\SqliteC\bin\Debug\System.Data.SQLite.pdb
+e:\users\acer\documents\visual studio 2010\Projects\SqliteC\SqliteC\obj\x86\Debug\SqliteC.csprojResolveAssemblyReference.cache
+e:\users\acer\documents\visual studio 2010\Projects\SqliteC\SqliteC\obj\x86\Debug\SqliteC.Form1.resources
+e:\users\acer\documents\visual studio 2010\Projects\SqliteC\SqliteC\obj\x86\Debug\SqliteC.Properties.Resources.resources
+e:\users\acer\documents\visual studio 2010\Projects\SqliteC\SqliteC\obj\x86\Debug\SqliteC.csproj.GenerateResource.Cache
+e:\users\acer\documents\visual studio 2010\Projects\SqliteC\SqliteC\obj\x86\Debug\SqliteC.exe
+e:\users\acer\documents\visual studio 2010\Projects\SqliteC\SqliteC\obj\x86\Debug\SqliteC.pdb
