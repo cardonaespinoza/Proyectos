@@ -1,0 +1,16 @@
+C:\Users\ACER\AppData\Local\Temporary Projects\MysqlC\obj\x86\Debug\MysqlC.csprojResolveAssemblyReference.cache
+C:\Users\ACER\AppData\Local\Temporary Projects\MysqlC\obj\x86\Debug\MysqlC.Form1.resources
+C:\Users\ACER\AppData\Local\Temporary Projects\MysqlC\obj\x86\Debug\MysqlC.Properties.Resources.resources
+C:\Users\ACER\AppData\Local\Temporary Projects\MysqlC\obj\x86\Debug\MysqlC.csproj.GenerateResource.Cache
+C:\Users\ACER\AppData\Local\Temporary Projects\MysqlC\bin\Debug\MysqlC.exe
+C:\Users\ACER\AppData\Local\Temporary Projects\MysqlC\bin\Debug\MysqlC.pdb
+C:\Users\ACER\AppData\Local\Temporary Projects\MysqlC\obj\x86\Debug\MysqlC.exe
+C:\Users\ACER\AppData\Local\Temporary Projects\MysqlC\obj\x86\Debug\MysqlC.pdb
+e:\users\acer\documents\visual studio 2010\Projects\MysqlC\MysqlC\obj\x86\Debug\MysqlC.exe
+e:\users\acer\documents\visual studio 2010\Projects\MysqlC\MysqlC\obj\x86\Debug\MysqlC.pdb
+e:\users\acer\documents\visual studio 2010\Projects\MysqlC\MysqlC\bin\Debug\MysqlC.exe
+e:\users\acer\documents\visual studio 2010\Projects\MysqlC\MysqlC\bin\Debug\MysqlC.pdb
+e:\users\acer\documents\visual studio 2010\Projects\MysqlC\MysqlC\obj\x86\Debug\MysqlC.csprojResolveAssemblyReference.cache
+e:\users\acer\documents\visual studio 2010\Projects\MysqlC\MysqlC\obj\x86\Debug\MysqlC.Form1.resources
+e:\users\acer\documents\visual studio 2010\Projects\MysqlC\MysqlC\obj\x86\Debug\MysqlC.Properties.Resources.resources
+e:\users\acer\documents\visual studio 2010\Projects\MysqlC\MysqlC\obj\x86\Debug\MysqlC.csproj.GenerateResource.Cache
